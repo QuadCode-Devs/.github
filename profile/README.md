@@ -12,7 +12,6 @@ Nosso site: https://quadcode.dev.br/
 ## 👨‍💻 Integrantes
 
 - [@Wenes11](https://github.com/Wenes11)
-- [@GustavoWillian7](https://github.com/GustavoWillian7)
 - [@marcosbaccin](https://github.com/marcosbaccin)
 - [@leoOliveira568](https://github.com/leoOliveira568)
 - [@CamilaGVitoria](https://github.com/CamilaGVitoria)
